@@ -2,7 +2,6 @@
   "name": "doit",
   "version": "0.0.0",
   "main": "index.js",
-  "license": "MIT",
   "dependencies": {
     "chokidar": "^1.6.1",
     "debug": "^2.6.3",
