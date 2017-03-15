@@ -2,9 +2,15 @@
   "name": "doit",
   "version": "0.0.0",
   "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
   "dependencies": {
     "chokidar": "^1.6.1",
     "debug": "^2.6.3",
     "pify": "^2.3.0"
+  },
+  "devDependencies": {
+    "standard": "^9.0.1"
   }
 }
