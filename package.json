@@ -6,7 +6,7 @@
     "lint": "standard"
   },
   "dependencies": {
-    "chokidar": "^1.6.1",
+    "chokidar": "^3.0.2",
     "debug": "^2.6.9",
     "pify": "^2.3.0"
   },
