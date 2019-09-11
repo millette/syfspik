@@ -1,5 +1,5 @@
 {
-  "name": "doit",
+  "name": "syfspik",
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,8 +7,8 @@
   },
   "dependencies": {
     "chokidar": "^3.0.2",
-    "debug": "^2.6.9",
-    "pify": "^2.3.0"
+    "debug": "^4.1.1",
+    "pify": "^4.0.1"
   },
   "devDependencies": {
     "standard": "^14.2.0"
